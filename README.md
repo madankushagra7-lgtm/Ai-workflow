@@ -1,2 +1,2 @@
 # Ai-workflow
-Different type of ai workflows
+Comp analysis workflow
